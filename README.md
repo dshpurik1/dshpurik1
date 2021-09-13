@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dshpurik1
 - 👀 I’m interested in cryptocurrency, computers, and on the off-time, delivering food!
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I am proficient in C++, Python, and I am learning RISC-V
 - 💞️ I’m looking to collaborate on any project to better my understanding of software development.
-- 📫 You can reach me through dshpurik@mymail.mines.edu
+- 📫 You can reach me through dshpurik2@gmail.com
