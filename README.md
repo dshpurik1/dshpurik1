@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dshpurik1
 - 👀 I’m interested in cryptocurrency, computers, and on the off-time, delivering food!
-- 🌱 I am proficient in C++, Python, and I am learning RISC-V
+- 🌱 I am proficient in C++, Python, RISC-V, Shell Scripting, and actively learning Java, SQL, and C
 - 💞️ I’m looking to collaborate on any project to better my understanding of software development.
 - 📫 You can reach me through dshpurik2@gmail.com
